@@ -8,6 +8,8 @@ Modified an application to where a user can select certain criteria and generate
 
 ![alt text](./images/passwordgen.png)
 
+http://127.0.0.1:5500/index.html link to deployed application
+
 ## Credits
 
 Tutor session with Alexis Gonzalez  
